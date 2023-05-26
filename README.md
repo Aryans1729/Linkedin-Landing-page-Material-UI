@@ -1,5 +1,7 @@
 
-THIS LINKEDIN-LANDING-PAGE IS DEPLOYED AT : https://linkedin-landing-page.netlify.app/
+THIS RESPONSIVE LINKEDIN-LANDING-PAGE IS DEPLOYED AT : https://linkedin-landing-page.netlify.app/
+YOU CAN CHANGE THE MAODE AS OF LIKE DARK OR LIGHT MODE .
+USED DIFFERENT MUI COMPONENTS AND ICONS TO BUILD THIS LANDING PAGE.
 
 # Getting Started with Create React App
 
